@@ -32,7 +32,7 @@ return(
 
           <h1 className="w-[542px] h-[160px] text-center font-bold text-[58px] text-white ml-44">Selling on the internet like a pro</h1>
 
-              <br /><br />
+              <br /><br />   
           <h4 className=" w-[536px] h-[60px] font-normal text-xl text-white ml-52 tracking-[0.02em]">We know how large objects will act, but things on a <br />
              &ensp; &ensp; &ensp; &ensp; small scale just do not act that way. </h4> 
 
