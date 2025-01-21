@@ -43,7 +43,7 @@ return(
 
 
         </div>
-           <br /><br />       
+           <br /><br />      
 
         <div className="flex gap-[30px]">
           <div className=" w-[1046px] h-[292px]  bg-white hover:bg-gray-300 ">
