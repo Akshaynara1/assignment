@@ -9,7 +9,7 @@ return(
       <div className=" w-[187px] h-[58px] mt-[17px] ml-[136px] ">
         <Image src={logo} alt="img"></Image> 
 
-      </div>
+      </div>   
       <ul className=" text-white flex gap-10  ">
         <li className=" hover:text-gray-400 cursor-pointer" >Home</li>
         <li className=" hover:text-gray-400 cursor-pointer " > Product</li>
